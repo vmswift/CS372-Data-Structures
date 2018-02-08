@@ -1,0 +1,32 @@
+300
+Taylor  287
+Thomas     197
+Brown      250
+Lee           273
+Reynolds    282
+Lion       192
+Mack         265
+Lewis     176
+Marshall    277
+Moto        262
+Vey             286
+Knocktosee    291
+ToSha       283
+Bozo        203
+WayOut     279
+Ace       258
+AceAgain    245
+Boyanze     235
+Thomson    188
+Mark       276
+Zieneth    250
+Crackley    284
+Monnazuma    239
+Jayman     274
+Sidcarson   290
+Sidcar      295
+Sid         294
+Vicki	   199
+Tony       198
+Marki      205
+

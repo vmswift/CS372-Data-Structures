@@ -1,0 +1,23 @@
+For bool logic 1 means yes and 0 means no
+
+Is car equal to car?:  1
+Is car equal to car?: 1
+Is car equal to truck?: 0
+Is car equal to dumptruck?: 0
+Is truck equal to dumptruck?: 0
+
+Car is not equal to car?: 0
+Car is not equal to car?: 0
+Car is not equal to truck?: 1
+Car is not equal to dumptruck?: 1
+Truck is not equal to dumptruck?: 0
+
+Values for car are: Top position: 20 Current Position: 5
+Values for truck are: Top position: 6 Current Position: 0
+Values for dumptruck are: Top position: 15 Current Position: 0
+
+Class values after throttle shift:
+Values for car are: Top position: 20 Current Position: 15
+Values for truck are: Top position: 6 Current Position: 4
+Values for dumptruck are: Top position: 15 Current Position: 13
+Press any key to continue . . .
